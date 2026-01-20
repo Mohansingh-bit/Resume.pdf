@@ -1,2 +1,2 @@
 # Resume.pdf
-“Resume and career profile”
+[Download Resume (PDF)](https://github.com/Mohansingh-bit/Resume.pdf/blob/main/Resume.pdf
